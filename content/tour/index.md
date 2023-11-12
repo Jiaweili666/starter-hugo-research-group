@@ -8,16 +8,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the  Zhicong Huang's Renewable Team 
-        content: 
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
