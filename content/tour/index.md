@@ -10,7 +10,7 @@ sections:
       slides:
       - title: Welcome to ZhicongHuang's Renewable Team
         content: 
-        align: right
+        align: center
         background:
           image:
             filename: zhuye.png
