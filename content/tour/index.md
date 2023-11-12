@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Gavy's group
-        content: Take a look at what we're working on...
+      - title: Welcome to the Zhicong Huang's Renewable Team 
+        content: 
         align: center
         background:
           image:
