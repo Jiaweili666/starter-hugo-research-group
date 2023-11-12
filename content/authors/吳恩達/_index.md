@@ -14,32 +14,30 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor //South China University of Technology
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: South China University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Power Transfer
+  - Power Electronics
+  - Electric Vehicle
+  - Intelligent Engineering
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Power Electronics
+      institution: The Hong Kong Polytechnic University
+    - course: MPhil in Mechanical and Electronic Engineering
+      institution: Huazhong University of Science and Technology
+    - course: BSc in Electrical Engineering and Automation
+      institution: Huazhong University of Science and Technology
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
