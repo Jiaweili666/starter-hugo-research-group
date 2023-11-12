@@ -3,8 +3,8 @@
 title: Zhicong Huang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhicong
+last_name: Huang
 
 # Username (this should match the folder name)
 authors:
