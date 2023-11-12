@@ -40,6 +40,7 @@ education:
       year: 2013
     - course: BSc in Electrical Engineering and Automation
       institution: Huazhong University of Science and Technology
+      year: 2018
     
 
 # Social/Academic Networking
