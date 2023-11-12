@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
-South China University of Technology
+role: Assistant Professor South China University of Technology
 
 # Organizations/Affiliations
 organizations:
