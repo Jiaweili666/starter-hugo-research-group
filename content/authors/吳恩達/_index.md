@@ -1,6 +1,6 @@
 ---
 # Display name
-title:黄智聪
+title:Zhicong Huang 黄智聪
 
 # Full name (for SEO)
 first_name: Zhicong
