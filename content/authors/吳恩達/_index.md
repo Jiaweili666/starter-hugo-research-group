@@ -73,7 +73,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 Dr. Zhicong Huang is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, China. In 2018, he was the recipient of UM Macau Talent Programme (first batch).
