@@ -11,7 +11,7 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: zhuye.jpg
+        filename: zhuye.png
       text: |
         <br>
         
