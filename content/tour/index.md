@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Welcome to the  Huang's Renewable Team 
+      - title: Welcome to the  Zhicong Huang's Renewable Team 
         content: 
         align: center
         background:
