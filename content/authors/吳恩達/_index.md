@@ -34,13 +34,13 @@ education:
   courses:
     - course: PhD in Power Electronics
       institution: The Hong Kong Polytechnic University
-      year: 2012
+      year: 2010
     - course: MPhil in Mechanical and Electronic Engineering
       institution: Huazhong University of Science and Technology 
-      year: 2009
+      year: 2013
     - course: BSc in Electrical Engineering and Automation
       institution: Huazhong University of Science and Technology
-      year: 2008
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
