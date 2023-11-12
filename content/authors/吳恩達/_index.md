@@ -14,31 +14,32 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: South China University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Power Transfer
+  - Power Electronics
+  - Electric Vehicle
+  - Intelligent Engineering
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Power Electronics
+      institution: The Hong Kong Polytechnic University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MPhil in Mechanical and Electronic Engineering
+      institution: Huazhong University of Science and Technology 
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Electrical Engineering and Automation
+      institution: Huazhong University of Science and Technology
       year: 2008
 
 # Social/Academic Networking
@@ -74,6 +75,4 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Zhicong Huang is currently an Assistant Professor with the Shien-Ming Wu School of Intelligent Engineering, South China University of Technology, China. In 2018, he was the recipient of UM Macau Talent Programme (first batch).
