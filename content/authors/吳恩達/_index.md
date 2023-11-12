@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
+South China University of Technology
 
 # Organizations/Affiliations
 organizations:
