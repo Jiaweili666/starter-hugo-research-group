@@ -11,7 +11,11 @@ sections:
         Wowchemy
         Research Group
       image:
+<<<<<<< HEAD
         filename: zhuye.png
+=======
+        filename: welcome.jpg
+>>>>>>> parent of 49f206e (Update _index.md)
       text: |
         <br>
         
