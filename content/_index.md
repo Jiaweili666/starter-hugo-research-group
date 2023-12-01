@@ -12,10 +12,14 @@ sections:
         Research Group
       image:
 <<<<<<< HEAD
+<<<<<<< HEAD
         filename: zhuye.png
 =======
         filename: welcome.jpg
 >>>>>>> parent of 49f206e (Update _index.md)
+=======
+        filename: welcome.jpg
+>>>>>>> 033c622f9dfda101af6d070bc1cf4ac0f9d68cd4
       text: |
         <br>
         
